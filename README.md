@@ -1,0 +1,3 @@
+# Dillard-Sales-Performance_Tableau
+
+The Tableau visualization presents various KPIs used in a project, including Net Sales, Total Return %, Markdown %, Top Returned Product, and Sales by Month. The dashboard helps to understand the company's sales revenue, return rate, markdown percentage, and sales performance over different months. The key findings suggest that the holiday season had the most sales, and the most returned products were special occasion dresses. Based on these findings, the dashboard recommends preparing for the busiest months and keeping the most selling products in stock. Additionally, opening a dress rental service and a tailoring service could increase revenue and provide customers with custom-made dresses and alteration services.
